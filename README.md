@@ -2,7 +2,7 @@
 
 Learn the fundamentals of React including simple and class components, state, props, and submitting form data.
 
-### [View the demo](https://todoapplic.netlify.app/) | [Read the tutorial](https://www.taniarascia.com/getting-started-with-react/)
+### [View the demo](https://todoapplic.netlify.app/) 
 
 ## Purpose
 
